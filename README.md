@@ -1,2 +1,4 @@
 # Loan-Behavior-Insights-Consumer-Persona
-Analyzed loan mispayment dataset from an NBFC company to track customers who are likely to miss the next patment cycle. Applied data exploration, clustering, and predictive modeling to uncover patterns based on which clustered the customers into different persona to drive business growth &amp; create communication strategies for each clusters for CRM.
+Analyzed a loan mispayment dataset from an NBFC to help with CRM, understand customer behavior, and identify high-risk and high-potential borrower segments. Applied data exploration, clustering, and predictive modeling to uncover patterns in repayment behavior, customer profiles, and loan performance.
+
+The analysis generated insights on target customer segments, risk indicators, and lending opportunities, helping inform strategies for better customer targeting, risk-aware lending, and market growth.

@@ -6,4 +6,4 @@ The analysis generated insights on target customer segments, risk indicators, an
 
 Dataseet - Analytics_loan_collection_dataset.csv
 Project File - Group 2.ows
-Report - Marketing Analytics Group 2
+Report - Marketing Analytics Group 2.pdf
